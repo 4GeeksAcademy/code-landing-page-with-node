@@ -1,8 +1,6 @@
-<!-- hide -->
 # Landing page con Node.js
-<!-- endhide -->
 
-```
+```txt
 🔥 Este ejercicio está diseñado para realizarse de 1 o máximo 2 personas.
    Si colaboras, discutes e intercambias ideas absorberás el contenido más rápidamente.
 ```
