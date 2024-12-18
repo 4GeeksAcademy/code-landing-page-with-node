@@ -1,4 +1,6 @@
+<!-- hide -->
 # Landing page con Node.js
+<!-- endhide -->
 
 ```txt
 🔥 Este ejercicio está diseñado para realizarse de 1 o máximo 2 personas.
@@ -13,6 +15,7 @@ Tecnologías: HTML, CSS, JS, Node, express or express-generator.
 
 La idea es crear con Bootstrap renderizar los diferentes elementos dentro del diseñor y pasar los datos a mostrar dinamicamente, todos los elementos se deven cargar en una vista principal llamada home.ejs
 
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱  Cómo iniciar este proyecto
 
@@ -21,6 +24,8 @@ a) Configura express desde cero.
 b) Crear el proyecto usando express-generator.
 
 💡 Importante: guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## Estrategia
 
